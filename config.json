@@ -1,0 +1,16 @@
+{
+    "bot_token": "8411013129:AAGm84O5IfLT8Pv717Yy8vZ5FExc-ckGCVI",
+    "channels": [
+        {
+            "source_url": "https://t.me/s/xauusdsignal98",
+            "dest_channels": [
+                "@djjdjfjdjfhf"
+            ],
+            "is_active": true,
+            "word_replacements": [],
+            "blacklist": [],
+            "whitelist": []
+        }
+    ],
+    "admin_ids": []
+}
